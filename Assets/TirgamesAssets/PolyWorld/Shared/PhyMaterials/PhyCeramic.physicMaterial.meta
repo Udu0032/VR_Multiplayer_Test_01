@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ff215b37edd71924da3120da10891f93
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 13400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 298507
+  packageName: Low Poly School Classrooms and Offices
+  packageVersion: 1.0
+  assetPath: Assets/TirgamesAssets/PolyWorld/Shared/PhyMaterials/PhyCeramic.physicMaterial
+  uploadId: 698909

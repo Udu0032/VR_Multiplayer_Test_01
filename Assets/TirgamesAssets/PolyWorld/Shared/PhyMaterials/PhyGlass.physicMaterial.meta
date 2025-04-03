@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c3c58e3bf17d56e4495131efd3901328
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 13400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 298507
+  packageName: Low Poly School Classrooms and Offices
+  packageVersion: 1.0
+  assetPath: Assets/TirgamesAssets/PolyWorld/Shared/PhyMaterials/PhyGlass.physicMaterial
+  uploadId: 698909
